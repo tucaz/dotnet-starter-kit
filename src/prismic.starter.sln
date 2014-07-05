@@ -14,6 +14,9 @@ Global
 		{A0E7F9B5-31F9-4A9B-ACBE-D3EE1ABFF803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E7F9B5-31F9-4A9B-ACBE-D3EE1ABFF803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = starter\prismic.mvc.starter.csproj
 	EndGlobalSection
